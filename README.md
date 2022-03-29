@@ -2,7 +2,6 @@
 
 <p id="description">This project is a simple application that uses Space X public API for you to explore.</p>
 
-<h2>🚀 Demo</h2>
 
   
   
