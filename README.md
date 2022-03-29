@@ -1,29 +1,48 @@
-# spacex-app
+<h1 align="center" id="title">Simple Rocket App</h1>
 
-This template should help get you started developing with Vue 3 in Vite.
+<p id="description">This project is a simple application that uses Space X public API for you to explore.</p>
 
-## Recommended IDE Setup
+<h2>🚀 Demo</h2>
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.vscode-typescript-vue-plugin).
+  
+  
+<h2>🧐 Features</h2>
 
-## Customize configuration
+Here're some of the project's best features:
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+*   View and filter Space X capsules
+*   Explore Rockets
+*   View Histories
+*   View and Filter Launches
 
-## Project Setup
+<h2>🛠️ Installation Steps:</h2>
 
-```sh
-npm install
+<p>1. npm install</p>
+
+```
+(downloads a package and it's dependencies)
 ```
 
-### Compile and Hot-Reload for Development
+<p>2. npm run dev</p>
 
-```sh
-npm run dev
+```
+(start up a server for the Vue frontend)
 ```
 
-### Compile and Minify for Production
+<p>3. npm run build</p>
 
-```sh
-npm run build
 ```
+(start up application for production use)
+```
+
+  
+  
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   VueJs
+*   Vite
+*   Tailwind CSS
+*   Vue Axios
+*   Vue Router
