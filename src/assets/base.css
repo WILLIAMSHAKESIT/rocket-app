@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+html { 
+  background: url('http://www.nasa.gov/sites/default/files/thumbnails/image/for_press_release.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+@layer base {
+  html {
+    font-family: 'Noto Sans', sans-serif;
+  }
+}
